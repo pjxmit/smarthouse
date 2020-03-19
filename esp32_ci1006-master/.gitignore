@@ -1,0 +1,5 @@
+build/
+sdkconfig
+sdkconfig.old
+release_bin/
+components/DeviceModules/git_version.git
